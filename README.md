@@ -10,11 +10,11 @@
 
 `Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build.`
 
-![Установка jenkins 1](https://github.com/timurgithub/netology-git-hw/blob/main/img/jenkins_install.png)
+![Установка jenkins 1](https://github.com/timurgithub/netology-gitlab-hw/blob/main/img/jenkins_install.png)
 
-![Установка go 1](https://github.com/timurgithub/netology-git-hw/blob/main/img/go_install.png)
+![Установка go 1](https://github.com/timurgithub/netology-gitlab-hw/blob/main/img/go_install.png)
 
-![Jenkins_firstpipe](https://github.com/timurgithub/netology-git-hw/blob/main/img/jenkins_build_firstpipe.png)
+![Jenkins_firstpipe](https://github.com/timurgithub/netology-gitlab-hw/blob/main/img/jenkins_build_firstpipe.png)
 
 
 ---
@@ -24,6 +24,6 @@
 `Создайте новый проект pipeline.`
 `Перепишите сборку из задания 1 на declarative в виде кода.`
 
-![Pipline](https://github.com/timurgithub/netology-git-hw/blob/main/img/Pipline.png)
+![Pipline](https://github.com/timurgithub/netology-gitlab-hw/blob/main/img/Pipline.png)
 
-![Pipline done](https://github.com/timurgithub/netology-git-hw/blob/main/img/Pipline_done.png)
+![Pipline done](https://github.com/timurgithub/netology-gitlab-hw/blob/main/img/Pipline_done.png)
